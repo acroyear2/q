@@ -1,0 +1,12 @@
+{
+  "name": "q",
+  "repo": "acroyear2/q",
+  "description": "A library for promises",
+  "version": "1.0.1",
+  "scripts": [
+    "q.js"
+  ],
+  "main": "q.js",
+  "dependencies": {},
+  "license": "MIT"
+}
